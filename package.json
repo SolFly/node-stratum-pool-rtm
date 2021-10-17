@@ -1,0 +1,72 @@
+{
+  "_from": "git://github.com/solfly/node-stratum-pool-rtm.git",
+  "_id": "stratum-pool@0.1.9",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/stratum-pool",
+  "_phantomChildren": {
+    "bindings": "1.3.1",
+    "nan": "2.10.0",
+    "node-pre-gyp": "0.6.39"
+  },
+  "_requested": {
+    "type": "git",
+    "raw": "git://github.com/solfly/node-stratum-pool-rtm.git",
+    "rawSpec": "git://github.com/solfly/node-stratum-pool-rtm.git",
+    "saveSpec": "git://github.com/solfly/node-stratum-pool-rtm.git",
+    "fetchSpec": "git://github.com/solfly/node-stratum-pool-rtm.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git://github.com/solfly/node-stratum-pool-rtm.git",
+  "_spec": "git://github.com/solfly/node-stratum-pool-rtm.git",
+  "_where": "/home/simon/FOMO/EasyNOMP",
+  "author": {
+    "name": "Matthew Little"
+  },
+  "bugs": {
+    "url": "https://github.com/solfly/node-stratum-pool-rtm/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "vekexasia"
+    },
+    {
+      "name": "TheSeven"
+    }
+  ],
+  "dependencies": {
+    "async": "*",
+    "base58-native": "*",
+    "bignum": "0.12.5",
+    "multi-hashing": "git://github.com/solfly/multi-hashing.git"
+  },
+  "deprecated": false,
+  "description": "High performance Stratum poolserver in Node.js",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "homepage": "https://github.com/solfly/node-stratum-pool-rtm",
+  "keywords": [
+    "stratum",
+    "mining",
+    "pool",
+    "server",
+    "poolserver",
+    "bitcoin",
+    "litecoin",
+    "scrypt"
+  ],
+  "license": "GPL-2.0",
+  "main": "lib/index.js",
+  "name": "stratum-pool",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solfly/node-stratum-pool-rtm.git"
+  },
+  "version": "0.1.9"
+}
