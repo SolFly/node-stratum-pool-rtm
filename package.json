@@ -42,7 +42,7 @@
   "dependencies": {
     "async": "*",
     "base58-native": "*",
-    "bignum": "0.12.5",
+    "bignum": "^0.13.0",
     "multi-hashing": "git://github.com/solfly/multi-hashing.git"
   },
   "deprecated": false,
